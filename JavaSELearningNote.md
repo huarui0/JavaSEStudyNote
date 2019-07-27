@@ -1,6 +1,6 @@
 
 # 主页
-   * [Java SE](https://www.oracle.com/technetwork/java/javase/downloads/index.html)<br>
+   * [Java SE](https://www.oracle.com/technetwork/java/javase/downloads/index.html) - 这是Java SE 的官方主页<br>
 # 参考
    * [Java SE Documentation](https://www.oracle.com/technetwork/java/javase/documentation/index.html)<br>
 # 下载
