@@ -13,6 +13,8 @@
 *备注：这个是用html标签做表格的例子。<br>
 <table>
         <tr>
+            <th>类别</th>
+            <th>语言项</th>
             <th>Java语言</th>
             <th>Kotlin语言</th>
             <th>备注说明</th>
